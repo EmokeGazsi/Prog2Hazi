@@ -1,0 +1,6 @@
+4027: 80000
+[Debrecen, Böszörményi út 12., ﻿Gipsz Jakab, 30000 Ft, Debrecen, Sinai Miklós utca 10., Béna Béla, 50000 Ft]
+4028: 10000
+[Debrecen, Kassai út 26., Menő Jenő, 10000 Ft]
+4031: 20000
+[Debrecen, Kishegyesi út 31., Teszt Elek, 20000 Ft]
